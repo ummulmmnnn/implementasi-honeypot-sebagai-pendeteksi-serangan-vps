@@ -1,9 +1,11 @@
 # Deteksi Serangan Siber dengan Honeypot Cowrie (Docker Based)
 
 Proyek ini mendokumentasikan simulasi keamanan jaringan yang menggunakan **Honeypot Cowrie** untuk mendeteksi berbagai jenis serangan pada port SSH. Seluruh infrastruktur dijalankan di atas **Docker** untuk memastikan isolasi sistem utama dari serangan.
-## Anggota Kelompok
-Ummul Mu'minin - 105841117323
-Ririn Yulandari - 105841117923
+## 👥 Anggota Kelompok
+- **UMMUL MU'MININ** - 105841117323
+- **RIRIN YULANDARI** - 105841117923
+
+---
 
 ## 🛠️ Infrastruktur & Tools
 * **Target:** Kali Linux (Honeypot Cowrie) - IP: `10.206.206.124`
